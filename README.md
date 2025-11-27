@@ -4,16 +4,8 @@ SentinelNav is a zero-dependency, pure Python binary visualization and forensics
 
 It combines a multiprocessing backend for fast file scanning with a local web-based frontend for interactive exploration, hex inspection, and architecture fingerprinting.
 
-## Table of Contents
-
-1.  Quickstart
-2.  Demo
-3.  Features
-4.  Architecture Design
-5.  Visual Mapping Guide
-6.  Installation
-7.  Usage & CLI Arguments
-8.  Keyboard Controls
+[Imgur Album 1](https://imgur.com/a/N96qgXI)
+[Imgur Album 2](https://imgur.com/TkB0zLO)
 
 ---
 
@@ -32,18 +24,6 @@ python3 sentinelnav.py
 4.  Open your browser to `http://localhost:8000`.
 
 ---
-
-## Demo
-
-![SentinelNav Demo](docs/demo.gif)
-
-_Note: To create a demo GIF similar to the placeholder above, record your screen while:_
-
-1.  _Running the script._
-2.  _Opening the localhost URL._
-3.  _Using WASD keys to navigate the block map._
-4.  _Clicking a "Red" block to inspect the Hex view._
-5.  _Clicking "Show Entropy Flux" to highlight anomalies._
 
 ---
 
