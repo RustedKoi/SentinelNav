@@ -4,8 +4,9 @@ SentinelNav is a zero-dependency, pure Python binary visualization and forensics
 
 It combines a multiprocessing backend for fast file scanning with a local web-based frontend for interactive exploration, hex inspection, and architecture fingerprinting.
 
-[Imgur Album 1](https://imgur.com/a/N96qgXI)
-[Imgur Album 2](https://imgur.com/TkB0zLO)
+[https://imgur.com/a/N96qgXI]
+
+[https://imgur.com/TkB0zLO]
 
 ---
 
