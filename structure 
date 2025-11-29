@@ -1,0 +1,9 @@
+sentinel/
+├── __init__.py       # Exposes the package
+├── core.py           # Math, ArchID, BMP generation
+├── database.py       # SQLite wrapper
+├── scanners.py       # File reading strategies
+├── processor.py      # Multiprocessing coordination
+├── reporting.py      # HTML/JSON generation
+├── server.py         # HTTP Server logic
+└── main.py           # CLI Entry point
